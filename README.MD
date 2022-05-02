@@ -19,4 +19,3 @@ Created by Karleen England, as part of the Emeritus & MITxPro Professional Codin
 
 ## Contact:
 **GitHub:** ksengland <br>
-**Twitter:** ksengland22
