@@ -5,7 +5,8 @@
 
 ## Description:
 Is it true the Mona Lisa's gaze follows you?<br>
-It is now! Load this up and move your mouse around the screen for endless hours of fun.
+It is now! Load this up and move your mouse around the screen for endless hours of fun.<br><br>
+(Be patient with her. She's 500 yrs old and it takes her a while to load)
 
 ## Contents:
 - eyes.js
@@ -29,6 +30,8 @@ Click <a href="https://ksengland.github.io/Moving-Eyes/" target="_blank">here</a
 - HTML
 
 ## Future Updates:
+[-] Make it load faster!
+<br>
 [-] Allow users to change the size of the eyeballs.
 <br>
 [-] Add background customization. Allow users to remove the Mona Lisa image and set a background color.
