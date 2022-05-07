@@ -1,29 +1,35 @@
 body {
   margin: 0;
   padding: 0;
-  background: #14495e;
+  background: #e3dac3;
+  background-image: url('Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF.jpg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .eyes {
   position: absolute;
-  top: 50%;
+  top: 24.5%;
+  right: 1.8%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
 }
 .eye {
-  width: 240px;
-  height: 120px;
+  width: 30px;
+  height: 15px;
   background: #fff;
   display: inline-block;
-  margin: 40px;
+  margin: 8px;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
 }
 .ball {
-  width: 80px;
-  height: 80px;
+  width: 10px;
+  height: 10px;
   background: #000;
   position: absolute;
   top: 50%;

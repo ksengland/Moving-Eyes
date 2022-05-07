@@ -1,14 +1,17 @@
-# Moving Eyes
+# Mona Lisa's Moving Eyes
 
-<img>
+<img
+     src="https://photos.app.goo.gl/WdxyPQ73oorTaLzR7">
 
 ## Description:
-Channel your inner Mona Lisa, or spook your friends with these interactive moving eyeballs. Watch the eyes follow your mouse around the screen. Endless hours of fun.
+Is it true the Mona Lisa's gaze follows you?<br>
+It is now! Load this up and move your mouse around the screen for endless hours of fun.
 
 ## Contents:
 - eyes.js
 - index.html
 - styles.css
+- Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF.jpg (Public Domain, Original Source: https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF.jpg)
 
 ## Instructions:
 **Option 1**
@@ -27,7 +30,8 @@ Click <a href="https://ksengland.github.io/Moving-Eyes/" target="_blank">here</a
 - HTML
 
 ## Future Updates:
-[-] Add color customization buttons. Allow users to change the colors of the eyeballs.
+[-] Allow users to change the size of the eyeballs.
+[-] Add background customization. Allow users to remove the Mona Lisa image and set a background color.
 
 ## Author:
 **Karleen England**
