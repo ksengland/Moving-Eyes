@@ -1,6 +1,6 @@
 # Mona Lisa's Moving Eyes
+![Moving Eyes](https://user-images.githubusercontent.com/99510271/167272344-1670a937-6f47-462c-9c8a-641238c75d6e.gif)
 
-![Moving Eyes](https://user-images.githubusercontent.com/99510271/167272111-2bc81e5d-6156-487a-94b4-b50c2ca24512.gif)
 
 
 ## Description:
@@ -31,6 +31,7 @@ Click <a href="https://ksengland.github.io/Moving-Eyes/" target="_blank">here</a
 
 ## Future Updates:
 [-] Allow users to change the size of the eyeballs.
+<br>
 [-] Add background customization. Allow users to remove the Mona Lisa image and set a background color.
 
 ## Author:
